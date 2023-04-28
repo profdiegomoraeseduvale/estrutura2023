@@ -49,6 +49,8 @@ void imprimirFila(No *fila){
     printf("\n---Fim da Fila---\n");
 }
 
+
+
 int main() {
     
     No *rmv, *fila = NULL;
